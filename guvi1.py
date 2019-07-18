@@ -1,7 +1,7 @@
 a=int(input())
-if(a==3):
- print("positive")
+if(a>0):
+ print("Positive")
 elif(a==0):
- print("zero")
+ print("Zero")
 else:
- print("negative")
+ print("Negative")
